@@ -1,0 +1,77 @@
+_repo: Ocellus-Lucanus-on-the-nature-of-the-universe-b-Taurus-the-Platonic-philosopher-on-the-eterni__75391
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Okellos, ho Leukanos, active 6th century B.C.
+    aliases:
+    - Lucanus, Ocellus
+    - Ekellos, of Lucania
+    - Ocellus, Lucanus
+    - Okkelos, of Lucania
+    - Occelus, of Lucania
+    gutenberg_agent_id: '57977'
+    url: http://www.gutenberg.org/2009/agents/57977
+    wikipedia: https://en.wikipedia.org/wiki/Ocellus_Lucanus
+  translator:
+    agent_name: Taylor, Thomas
+    birthdate: 1758
+    deathdate: 1835
+    gutenberg_agent_id: '3385'
+    url: http://www.gutenberg.org/2009/agents/3385
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+creator:
+  authors:
+  - agent_name: Firmicus Maternus, Julius
+    aliases:
+    - Maternus, Firmicus
+    - Maternus, Julius Firmicus
+    - Julius Firmicus Maternus
+    gutenberg_agent_id: '57979'
+    url: http://www.gutenberg.org/2009/agents/57979
+    wikipedia: https://en.wikipedia.org/wiki/Julius_Firmicus_Maternus
+  - agent_name: Proclus
+    aliases:
+    - Proclus Diadochus
+    - Proclus Lycius
+    - Πρόκλος Διάδοχος
+    birthdate: 412
+    deathdate: 485
+    gutenberg_agent_id: '55965'
+    url: http://www.gutenberg.org/2009/agents/55965
+    wikipedia: https://en.wikipedia.org/wiki/Proclus
+  - agent_name: Tauros
+    aliases:
+    - Taurus, of Beiruit
+    - Taurus Berytius
+    - Taurus, Lucius Calvenus
+    - Taurus, Calvisius
+    gutenberg_agent_id: '57978'
+    url: http://www.gutenberg.org/2009/agents/57978
+    wikipedia: https://en.wikipedia.org/wiki/Lucius_Calvenus_Taurus
+description: ''
+gutenberg_issued: '2025-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75391'
+  lccn: 09019315
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433022673838&view=1up&seq=9
+pgterms:marc905: 20230212003643lucanus
+pgterms:marc906: '1831'
+pgterms:marc907: GB
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bPrinted for the translator, $c1831.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Early works to 1800'
+- !lcsh 'Astrology -- Early works to 1800'
+- !lcc 'BF'
+- !lcc 'Q'
+- GITenberg
+title: 'Ocellus Lucanus on the nature of the universe : $b Taurus, the Platonic philosopher,
+  on the eternity of the world. Julius Firmicus Maternus of the thema mundi. Select
+  theorems on the perpetuity of time, by Proclus.'
+url: http://www.gutenberg.org/ebooks/75391
