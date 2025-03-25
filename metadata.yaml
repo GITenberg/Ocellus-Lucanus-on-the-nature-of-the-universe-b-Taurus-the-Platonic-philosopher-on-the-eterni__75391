@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '3385'
     url: http://www.gutenberg.org/2009/agents/3385
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+covers:
+- cover_type: archival
+  image_path: 75391-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Firmicus Maternus, Julius
@@ -49,6 +52,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57978
     wikipedia: https://en.wikipedia.org/wiki/Lucius_Calvenus_Taurus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75391#Ocellus-Lucanus-on-the-nature-of-the-universe-b-Taurus-the-Platonic-philosopher-on-the-eterni_
 gutenberg_issued: '2025-02-16'
 gutenberg_type: Text
 identifiers:
